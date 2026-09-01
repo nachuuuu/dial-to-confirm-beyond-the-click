@@ -60,7 +60,7 @@ The interaction combines cursor movement, visual feedback, animations, and telep
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/dial-to-confirm.git
+git clone https://github.com/nachuuuu/dial-to-confirm.git
 ```
 
 Open the project folder and run:
