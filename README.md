@@ -80,7 +80,3 @@ This project explores a simple question:
 > What if confirming an action felt like an interaction rather than just a click?
 
 **Dial to Confirm** transforms a traditional checkbox into a small interactive experience inspired by vintage telephone interfaces.
-
----
-
-Built for **Beyond the Click** by Namdapha's Geek Squad Activities Group.
