@@ -1,2 +1,1 @@
-# dial-to-confirm-beyond-the-click
-Reimagining the traditional checkbox as an interactive telephone-inspired confirmation experience
+Dial to Confirm reimagines the traditional checkbox as a telephone-inspired confirmation interaction. Instead of simply clicking a box, users interact with a digital dialpad through cursor movement to enter a verification sequence. Once the sequence is successfully dialed, the interaction completes and the underlying confirmation state changes to checked
