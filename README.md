@@ -1,3 +1,4 @@
+
 # ☎️ Dial to Confirm
 
 ### Beyond the Click — Geek Squad Activities Challenge
@@ -80,3 +81,4 @@ This project explores a simple question:
 > What if confirming an action felt like an interaction rather than just a click?
 
 **Dial to Confirm** transforms a traditional checkbox into a small interactive experience inspired by vintage telephone interfaces.
+<img width="4320" height="5929" alt="diagram" src="https://github.com/user-attachments/assets/b841330d-f9fb-48e4-bbb8-cfbadac528ba" />
